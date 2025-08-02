@@ -66,7 +66,8 @@ Visit the live app: [The Ultimate Sura App](https://yourusername.github.io/ultim
 ## 📱 **Screenshots**
 
 ### Homepage
-![Homepage](images/sura1.png)
+![WhatsApp Image 2025-08-02 at 07 57 03_35deb239](https://github.com/user-attachments/assets/46ff3261-dd67-4eea-b84b-50dc6e0e400a)
+
 
 ### Sura Bot Chat
 Interactive AI conversation with context-aware responses
